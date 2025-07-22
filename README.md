@@ -10,4 +10,6 @@
 
 使用[quartz](https://github.com/jackyzha0/quartz)将Obsidian笔记库部署成静态网站
 
+obsidian源文件存储在content文件夹中
+
 ![](https://animed-blog.oss-cn-wuhan-lr.aliyuncs.com/20250722191935.png)
