@@ -1,18 +1,11 @@
-# Quartz v4
+## 考研数一笔记
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+参考https://github.com/BlandAlpha/obsidian_math
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+  张宇基础30讲
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+使用obsidian构建的的考研数一笔记，包含高数、线代、概率论
+在线浏览：https://math.wrentao.cn/
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+![](https://animed-blog.oss-cn-wuhan-lr.aliyuncs.com/20250722191935.png)
